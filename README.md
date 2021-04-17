@@ -1,1 +1,1 @@
-# Image_text_retrieving
+# Image skew correction by finding homography and text detection using pytessaract.
